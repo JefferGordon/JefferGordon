@@ -16,3 +16,21 @@ I'm a Systems Analyst focused on building practical technology solutions that co
 - 📡 Working with networking, monitoring and self-hosted infrastructure
 - 🔐 Interested in cybersecurity, automation and infrastructure reliability
 - 🌎 Based in Ecuador
+
+## Tech Stack
+
+### Software Development
+
+`PHP` · `Laravel` · `Node.js` · `Express` · `Vue.js` · `JavaScript`
+
+### Databases
+
+`MySQL` · `PostgreSQL` · `SQL Server`
+
+### Infrastructure & DevOps
+
+`Docker` · `Linux` · `Windows Server` · `Cloudflare` · `Git` · `GitHub`
+
+### Monitoring & Observability
+
+`Zabbix` · `Uptime Kuma` · `Grafana`
