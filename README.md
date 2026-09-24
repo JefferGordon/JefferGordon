@@ -34,3 +34,45 @@ I'm a Systems Analyst focused on building practical technology solutions that co
 ### Monitoring & Observability
 
 `Zabbix` · `Uptime Kuma` · `Grafana`
+
+## Featured Projects
+
+### 🎟️ EvoTurnos
+
+Queue management system designed for organizations that provide in-person customer service.
+
+**Highlights**
+- Real-time ticket management
+- Operator workstations
+- Self-service kiosks
+- Public display screens
+- Priority queue management
+- On-premise deployment
+
+**Tech:** `Laravel` · `PHP` · `MySQL` · `WebSockets` · `Docker`
+
+---
+
+### 🏋️ NeoGym
+
+Web-based gym management system focused on memberships, customers and payment management.
+
+**Highlights**
+- Membership management
+- Customer management
+- Payment registration
+- Membership history
+- Separated frontend and backend architecture
+- Containerized deployment
+
+**Tech:** `Vue.js` · `Node.js` · `Express` · `MySQL` · `Docker`
+
+---
+
+### 🖥️ Infrastructure Lab
+
+Personal environment for experimenting with infrastructure, monitoring, networking and self-hosted services.
+
+**Currently working with**
+
+`Docker` · `Linux` · `Zabbix` · `Uptime Kuma` · `Grafana` · `Cloudflare`
