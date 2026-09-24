@@ -76,3 +76,8 @@ Personal environment for experimenting with infrastructure, monitoring, networki
 **Currently working with**
 
 `Docker` · `Linux` · `Zabbix` · `Uptime Kuma` · `Grafana` · `Cloudflare`
+
+## Connect
+
+- 🌐 [JG TechOps](https://jgtechops.com)
+- 💼 GitHub: [@JefferGordon](https://github.com/JefferGordon)
